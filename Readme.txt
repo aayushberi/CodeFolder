@@ -1,0 +1,1 @@
+Once sudoko.java is executed a GUI is created to solve any sudoko puzzle. Click solve to solve a sudoko puzzle and click reset to input another puzzle.
